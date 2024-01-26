@@ -1,0 +1,4 @@
+@echo off
+cd "Path\to\your\log\folder"
+del *del.log\q
+echo logs removed successfully
